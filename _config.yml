@@ -116,7 +116,7 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
+    - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin-square"
        url: "https://www.linkedin.com/in/eugenio-varetti/"
     - label: "Facebook"
