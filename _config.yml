@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Eugenio Varetti"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "profile1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "MSc. Mathematical Engineering student at Politecnico di Milano"
   location         : "Milan, Italy"
   email            :
@@ -116,15 +116,15 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin-square"
-       url: "https://www.linkedin.com/in/eugenio-varetti/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url: "https://www.linkedin.com/in/eugenio-varetti/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/eugeniovaretti"
+      # url: "https://github.com/eugeniovaretti"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -132,9 +132,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin-square"
-       url: https://www.linkedin.com/in/eugenio-varetti/
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url: https://www.linkedin.com/in/eugenio-varetti/
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
