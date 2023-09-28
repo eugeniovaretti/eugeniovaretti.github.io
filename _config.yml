@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" # "default" # "air", "aqua", "contrast", "
 locale                   : "en-US"
 title                    : "Eugenio Varetti"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : Mathematical Engineering Student
 name                     : &name "Eugenio Varetti"
 description              : &description "personal description"
 url                      : https://eugeniovaretti.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -92,7 +92,8 @@ og_image                 : # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links: 
+    - https://www.linkedin.com/in/yourprofile" # An array of links to social media profiles
 
 # Analytics
 analytics:
