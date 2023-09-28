@@ -3,9 +3,6 @@ permalink: /
 title: "About Me"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 Since 2021, I have been studying Mathematical Engineering at Politecnico di Milano. My academic journey has taken me through a deep exploration of Mathematical Engineering, 
