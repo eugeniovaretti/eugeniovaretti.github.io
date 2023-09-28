@@ -109,7 +109,7 @@ author:
   avatar           : "profile1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "MSc. Mathematical Engineering student at Politecnico di Milano"
   location         : "Milan, Italy"
-  email            :
+  email            : "eugenio.varetti@mail.polimi.it"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -125,7 +125,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/eugeniovaretti"
+      url: "https://github.com/eugeniovaretti"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
