@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Sample Posts"
+  - title: "Recent Projects"
     url: /year-archive/
   - title: "GitHub Projects"
     url: https://github.com/eugeniovaretti
