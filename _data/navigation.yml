@@ -1,11 +1,11 @@
 # main links
 main:
+  - title: "About"
+    url: /about/
   - title: "GitHub Projects"
     url: https://github.com/eugeniovaretti
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Sample Posts"
+     url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
