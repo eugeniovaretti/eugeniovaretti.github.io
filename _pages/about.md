@@ -4,7 +4,7 @@ title: "About Me"
 excerpt: "About me"
 author_profile: true
 ---
-
+---
 Since 2021, I have been studying Mathematical Engineering at Politecnico di Milano. My academic journey has taken me through a deep exploration of Mathematical Engineering, 
 with a specific focus on Statistical Learning, Machine Learning, and Scientific Computing. This academic path has allowed me to combine my passion for mathematics with a drive 
 to tackle real-world challenges and develop innovative solutions.  

@@ -2,7 +2,9 @@
 title:  "Digital Bocce Game Monitoring System: Tracking, Scoring, and Analysis in EPL"
 search: false
 categories: 
-  - Jekyll
+  - EPL
+  - SQL
+  - Pull Request
 ---
 
 # Bocce EPL problem
