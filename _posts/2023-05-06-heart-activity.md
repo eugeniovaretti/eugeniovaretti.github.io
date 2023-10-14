@@ -29,8 +29,6 @@ The final segment of the project centers on the spatial reconstruction of the tr
   
 ![potential reconstruction](/files/posts_img/hearth_img3.png){: .align-center}  
 
-This academic journey seeks to unravel the complexities of atrial fibrillation and contribute to the advancement of diagnosis and treatment strategies for this prevalent cardiac arrhythmia. The rigorous exploration of these checkpoints serves as an important endeavor in the realm of cardiac electrophysiology research.  
-
 The project incorporates techniques such as Principal Component Analysis (PCA) of multivariate data, Classification on PCA scores through Support Vector Machine (SVM), Regression through Generalized Linear Mixed models, Compressed sensing.  Further information on the project's aims and methodology can be found in the [dedicated report](/files/posts_pdf/hearth_pdf.pdf).
 
 
