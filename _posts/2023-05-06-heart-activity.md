@@ -18,7 +18,7 @@ This checkpoint is further dissected into subproblems, encompassing signal annot
 
 ### Checkpoint 2: Estimation of Unknown Parameters
 
-![inverse estimation]({{ site.url }}{{ site.baseurl }}/files/posts_img/hearth_img2.jpg){: .align-right width="300" heigth="350"}
+![inverse estimation]({{ site.url }}{{ site.baseurl }}/files/posts_img/hearth_img2.png){: .align-right width="300" heigth="350"}
 The second checkpoint is dedicated to inferring the unknown parameters characterizing the applied current within the monodomain model. Depending on the specific mechanism (focal or reentrant), these parameters may include the position of the focal activity center or the timing and length of the impulse generating reentrant activity. Novel signals are generated from the 20 sensors by utilizing a numerical approximation based on the monodomain model coupled with the Mitchell-Schaeffer model. The optimization objective combines L2 norm relative error and a customized norm addressing activation timing errors to yield these critical parameters.
 
 ### Checkpoint 3: Reconstruction of Transmembrane Potential
