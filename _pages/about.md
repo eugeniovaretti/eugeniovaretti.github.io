@@ -20,4 +20,4 @@ Education
 MSc in Statistical Learning track of Mathematical Engineering @ Politecnico di Milano
 BSc in Mathematical Engineering @ Politecnico di Torino
 
-![scientific research official badge](/files/badge_ric_sc.png)
+![scientific research official badge]({{ site.url }}{{ site.baseurl }}/files/badge_ric_sc.png){: .align-left width="150" heigth="150"}
