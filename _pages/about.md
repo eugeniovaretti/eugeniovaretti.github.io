@@ -20,3 +20,5 @@ MSc in Statistical Learning track of Mathematical Engineering @ Politecnico di M
 BSc in Mathematical Engineering @ Politecnico di Torino
 
 ![scientific research official badge]({{ site.url }}{{ site.baseurl }}/files/badge_ric_sc.png){: .align-left width="150" heigth="150"}
+![hackaton official badge]({{ site.url }}{{ site.baseurl }}/files/badge_hack-the-necstcamp.png){: .align-right width="150" heigth="150"}
+
