@@ -6,7 +6,11 @@ categories:
   - Scientific Computing
 ---
 ## Introduction
-This project is a comprehensive exploration of atrial fibrillation mechanisms and the reconstruction of the transmembrane potential in cardiac cells. The research unfolds in three significant checkpoints, each addressing distinct aspects of this complex phenomenon.
+Atrial fibrillation (AF) is a high-incidence cardiac arrhythmia characterized by episodes of atria's irregular electrical activity that may compromise atrial contraction. Despite clinical and academic research efforts, the mechanism behind atrial fibrillation is still subject to debate. Many theories have been proposed to explain AF mechanisms, such as the wave theory (Moe, 1962), focal activity (Jaïs et al., 1997), and driver domains (Haissaguerre et al., 2014).
+
+In recent years, technological development has led to new clinical tools that open new frontiers in the study of AF. Specifically, the latest generation of mapping catheters allows, thanks to their multiple splines, to acquire a set of high-definition endocavitary signals that measure the local activity of the atrial tissue.
+
+This project aims at developing innovative scientific computing tools to infer the mechanism of atrial fibrillation from pseudo-electrogram measurements. The research unfolds in three significant checkpoints, each addressing distinct aspects of this complex phenomenon.
 
 ### Checkpoint 1: Classification of Atrial Fibrillation Mechanism
 
